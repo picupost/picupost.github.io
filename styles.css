@@ -176,16 +176,7 @@ footer {
 
 
 
-.boton-arriba {
-    position: 200px;
-    background-color: #ff7e5f; 
-    border-radius: 5px;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 26px;
-      }
+
 
       @media (max-width: 768px) {
         header h1 {
